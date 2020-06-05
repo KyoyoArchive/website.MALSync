@@ -225,6 +225,11 @@
     "name": "Hidive"
   },
   {
+    "domain": "https://jaiminisbox.com",
+    "type": "manga",
+    "name": "JaiminisBox"
+  },
+  {
     "domain": "https://animestrue.site",
     "type": "anime",
     "name": "animestrue"
