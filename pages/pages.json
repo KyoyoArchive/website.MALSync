@@ -250,6 +250,11 @@
     "name": "manga4life"
   },
   {
+    "domain": "https://bato.to",
+    "type": "manga",
+    "name": "bato"
+  },
+  {
     "domain": "https://dreamsub.stream",
     "type": "anime",
     "name": "DreamSub"
