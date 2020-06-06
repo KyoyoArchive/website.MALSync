@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,21 +23,21 @@
 		<div class="cover-card">
 			<div class="card-body">
 				<div class="loader2-div">
-					<img src="icons/mal-sync-icon.svg" height="80" width="80" />
+					<img src="icons/mal-sync-icon.svg" alt="MALSync icon" height="80" width="80" />
 				</div>
 				<h1 class="card-title">MAL-Sync</h1>
 				<div>
 					<a href="https://myanimelist.net/" target="_blank" class="plain-link" rel="noopener">
-						<img src="icons/mal.png" height="40" width="40" title="MyAnimeList" />
+						<img src="icons/mal.png" height="40" width="40" title="MyAnimeList" alt="MyAnimeList" />
 					</a>
 					<a href="https://anilist.co/" target="_blank" class="plain-link" rel="noopener">
-						<img src="icons/anilist.svg" height="40" width="40" title="AniList" />
+						<img src="icons/anilist.svg" height="40" width="40" title="AniList" alt="AniList" />
 					</a>
 					<a href="https://kitsu.io/" target="_blank" class="plain-link" rel="noopener">
-						<img src="icons/kitsu.svg" height="40" width="40" title="Kitsu" />
+						<img src="icons/kitsu.svg" height="40" width="40" title="Kitsu" alt="Kitsu" />
 					</a>
 					<a href="https://simkl.com/" target="_blank" class="plain-link" rel="noopener">
-						<img src="icons/simkl.svg" height="40" width="40" title="Simkl" />
+						<img src="icons/simkl.svg" height="40" width="40" title="Simkl" alt="Simkl" />
 					</a>
 				</div>
 				<h2 class="card-text" style="font-size: 1rem; font-weight: 400; line-height: 1.5;">Integrates MyAnimeList into various sites, with auto episode tracking.</h2>
@@ -207,7 +208,7 @@
 					    <source srcset="images/1-d.png, images/1-d-2x.png 2x"
 					            media="(min-width: 1001px)" type="image/png">
 
-					    <img src="images/1-p.png" alt="My image"
+					    <img src="images/1-p.png" alt="FEATURE 1"
 					         srcset="images/1-p-2x.png 2x">
 					</picture>
 					<div class="features-text-box">
@@ -230,7 +231,7 @@
 					    <source srcset="images/3-d.png, images/3-d-2x.png 2x"
 					            media="(min-width: 1001px)" type="image/png">
 
-					    <img src="images/3-p.png" alt="My image"
+					    <img src="images/3-p.png" alt="FEATURE 2"
 					         srcset="images/3-p-2x.png 2x">
 					</picture>
 					<div class="features-text-box">
@@ -253,7 +254,7 @@
 					    <source srcset="images/5-d.png, images/5-d-2x.png 2x"
 					            media="(min-width: 1001px)" type="image/png">
 
-					    <img src="images/5-p.png" alt="My image"
+					    <img src="images/5-p.png" alt="FEATURE 3"
 					         srcset="images/5-p-2x.png 2x">
 					</picture>
 					<div class="features-text-box">
@@ -276,7 +277,7 @@
 					    <source srcset="images/4-d.png, images/4-d-2x.png 2x"
 					            media="(min-width: 1001px)" type="image/png">
 
-					    <img src="images/4-p.png" alt="My image"
+					    <img src="images/4-p.png" alt="FEATURE 4"
 					         srcset="images/4-p-2x.png 2x">
 					</picture>
 					<div class="features-text-box">
@@ -300,7 +301,7 @@
 					    <source srcset="images/6-d.png, images/6-d-2x.png 2x"
 					            media="(min-width: 1001px)" type="image/png">
 
-					    <img src="images/6-p.png" alt="My image"
+					    <img src="images/6-p.png" alt="FEATURE 5"
 					         srcset="images/6-p-2x.png 2x">
 					</picture>
 					<div class="features-text-box">
@@ -1743,8 +1744,8 @@
 	  	worker.postMessage({
 	  	  canvas: offscreen,
 	  	  canvasState: {
-	  	    width: document.body.clientWidth,
-	  	    height: document.body.clientHeight,
+	  	    width: htmlCanvas.getBoundingClientRect().width,
+	  	    height: htmlCanvas.getBoundingClientRect().height,
 	  	    starFall: window.scrollTop ? window.scrollTop : 0,
 	  	  },
 	  	  mode: 'init',
@@ -1753,8 +1754,8 @@
 	  	window.onresize = function() {
 	  	  worker.postMessage({
 	  	    canvasState: {
-	  	      width: document.body.clientWidth,
-	  	      height: document.body.clientHeight,
+	  	      width: htmlCanvas.getBoundingClientRect().width,
+	  	      height: htmlCanvas.getBoundingClientRect().height,
 	  	      starFall: window.scrollTop ? window.scrollTop : 0,
 	  	    },
 	  	    mode: 'resize',
