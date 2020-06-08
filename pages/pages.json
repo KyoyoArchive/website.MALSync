@@ -80,11 +80,6 @@
     "name": "Plex"
   },
   {
-    "domain": "https://4anime.to",
-    "type": "anime",
-    "name": "4Anime"
-  },
-  {
     "domain": "https://animeultima.to",
     "type": "anime",
     "name": "animeultima"
