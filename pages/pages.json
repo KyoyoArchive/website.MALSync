@@ -5,6 +5,11 @@
     "name": "kissanime"
   },
   {
+    "domain": "https://kissmanga.com",
+    "type": "manga",
+    "name": "kissmanga"
+  },
+  {
     "domain": "https://9anime.to",
     "type": "anime",
     "name": "9anime"
@@ -78,6 +83,11 @@
     "domain": "http://app.plex.tv",
     "type": "anime",
     "name": "Plex"
+  },
+  {
+    "domain": "https://4anime.to",
+    "type": "anime",
+    "name": "4Anime"
   },
   {
     "domain": "https://animeultima.to",
