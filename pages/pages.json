@@ -90,6 +90,11 @@
     "name": "4Anime"
   },
   {
+    "domain": "https://animeultima.to",
+    "type": "anime",
+    "name": "animeultima"
+  },
+  {
     "domain": "https://www1.aniflix.tv",
     "type": "anime",
     "name": "Aniflix"
@@ -298,11 +303,6 @@
     "domain": "https://www.tsukimangas.com",
     "type": "manga",
     "name": "Tsuki Mangás"
-  },
-  {
-    "domain": "https://mangatx.com",
-    "type": "manga",
-    "name": "mangatx"
   },
   {
     "domain": "https://anihub.tv",
