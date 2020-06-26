@@ -305,6 +305,11 @@
     "name": "Tsuki Mangás"
   },
   {
+    "domain": "https://mangatx.com",
+    "type": "manga",
+    "name": "mangatx"
+  },
+  {
     "domain": "https://anihub.tv",
     "type": "anime",
     "name": "Anihub"
