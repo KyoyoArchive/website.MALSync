@@ -230,11 +230,6 @@
     "name": "JaiminisBox"
   },
   {
-    "domain": "https://animestrue.site",
-    "type": "anime",
-    "name": "animestrue"
-  },
-  {
     "domain": "https://www.primevideo.com",
     "type": "anime",
     "name": "Amazon Prime Video"
@@ -308,6 +303,11 @@
     "domain": "https://anihub.tv",
     "type": "anime",
     "name": "Anihub"
+  },
+  {
+    "domain": "https://www.animestreamingfr.fr",
+    "type": "anime",
+    "name": "AnimeStreamingFR"
   },
   {
     "domain": "https://scantrad.net",
