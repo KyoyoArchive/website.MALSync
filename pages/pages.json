@@ -165,11 +165,6 @@
     "name": "AnimeZone"
   },
   {
-    "domain": "https://animeflix.io",
-    "type": "anime",
-    "name": "Animeflix"
-  },
-  {
     "domain": "https://moeclip.com",
     "type": "anime",
     "name": "moeclip"
