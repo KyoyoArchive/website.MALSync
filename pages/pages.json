@@ -5,11 +5,6 @@
     "name": "kissanime"
   },
   {
-    "domain": "https://kissmanga.com",
-    "type": "manga",
-    "name": "kissmanga"
-  },
-  {
     "domain": "https://9anime.to",
     "type": "anime",
     "name": "9anime"
@@ -165,6 +160,11 @@
     "name": "AnimeZone"
   },
   {
+    "domain": "https://animeflix.io",
+    "type": "anime",
+    "name": "Animeflix"
+  },
+  {
     "domain": "https://moeclip.com",
     "type": "anime",
     "name": "moeclip"
@@ -223,6 +223,11 @@
     "domain": "https://jaiminisbox.com",
     "type": "manga",
     "name": "JaiminisBox"
+  },
+  {
+    "domain": "https://animestrue.site",
+    "type": "anime",
+    "name": "animestrue"
   },
   {
     "domain": "https://www.primevideo.com",
