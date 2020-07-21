@@ -5,11 +5,6 @@
     "name": "kissanime"
   },
   {
-    "domain": "https://kissmanga.com",
-    "type": "manga",
-    "name": "kissmanga"
-  },
-  {
     "domain": "https://9anime.to",
     "type": "anime",
     "name": "9anime"
@@ -318,10 +313,5 @@
     "domain": "https://www.animeid.tv",
     "type": "anime",
     "name": "AnimeId"
-  },
-  {
-    "domain": "https://yayanimes.net",
-    "type": "anime",
-    "name": "YayAnimes"
   }
 ]
