@@ -115,6 +115,11 @@
     "name": "AnimeKisa"
   },
   {
+    "domain": "http://animeindo.moe",
+    "type": "anime",
+    "name": "AnimeIndo"
+  },
+  {
     "domain": "https://shinden.pl",
     "type": "anime",
     "name": "Shinden"
@@ -318,10 +323,5 @@
     "domain": "https://www.animeid.tv",
     "type": "anime",
     "name": "AnimeId"
-  },
-  {
-    "domain": "https://yayanimes.net",
-    "type": "anime",
-    "name": "YayAnimes"
   }
 ]
