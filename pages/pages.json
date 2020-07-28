@@ -90,6 +90,11 @@
     "name": "animeultima"
   },
   {
+    "domain": "https://www1.aniflix.tv",
+    "type": "anime",
+    "name": "Aniflix"
+  },
+  {
     "domain": "https://www.animefreak.tv",
     "type": "anime",
     "name": "Animefreak"
@@ -283,6 +288,11 @@
     "domain": "https://www.otakufr.com",
     "type": "anime",
     "name": "OtakuFR"
+  },
+  {
+    "domain": "https://samehadaku.vip",
+    "type": "anime",
+    "name": "Samehadaku"
   },
   {
     "domain": "https://www.tsukimangas.com",
