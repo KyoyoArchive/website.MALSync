@@ -50,6 +50,11 @@
     "name": "Turkanime"
   },
   {
+    "domain": "https://animepahe.com",
+    "type": "anime",
+    "name": "animepahe"
+  },
+  {
     "domain": "https://www.netflix.com",
     "type": "anime",
     "name": "Netflix"
@@ -163,6 +168,11 @@
     "domain": "https://www.animezone.pl",
     "type": "anime",
     "name": "AnimeZone"
+  },
+  {
+    "domain": "https://animeflix.io",
+    "type": "anime",
+    "name": "Animeflix"
   },
   {
     "domain": "https://moeclip.com",
@@ -318,5 +328,10 @@
     "domain": "https://www.animeid.tv",
     "type": "anime",
     "name": "AnimeId"
+  },
+  {
+    "domain": "https://yayanimes.net",
+    "type": "anime",
+    "name": "YayAnimes"
   }
 ]
