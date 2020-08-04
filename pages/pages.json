@@ -285,6 +285,11 @@
     "name": "MonosChinos"
   },
   {
+    "domain": "https://animefire.net",
+    "type": "anime",
+    "name": "AnimeFire"
+  },
+  {
     "domain": "https://www.otakufr.com",
     "type": "anime",
     "name": "OtakuFR"
