@@ -330,7 +330,7 @@
     "name": "AnimeId"
   },
   {
-    "domain": "https://animixplay.com",
+    "domain": "https://animixplay.to",
     "type": "anime",
     "name": "AniMixPlay"
   },
@@ -378,5 +378,10 @@
     "domain": "https://simplyaweeb.com",
     "type": "anime",
     "name": "Simplyaweeb"
+  },
+  {
+    "domain": "https://animevibe.tv",
+    "type": "anime",
+    "name": "Animevibe"
   }
 ]
