@@ -1,10 +1,5 @@
 [
   {
-    "domain": "https://kissanime.ru",
-    "type": "anime",
-    "name": "kissanime"
-  },
-  {
     "domain": "https://9anime.to",
     "type": "anime",
     "name": "9anime"
