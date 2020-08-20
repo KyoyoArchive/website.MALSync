@@ -190,11 +190,6 @@
     "name": "JapScan"
   },
   {
-    "domain": "https://mangakisa.com",
-    "type": "manga",
-    "name": "MangaKisa"
-  },
-  {
     "domain": "https://goyabu.com",
     "type": "anime",
     "name": "Goyabu"
@@ -355,6 +350,11 @@
     "name": "JustAnime"
   },
   {
+    "domain": "https://yayanimes.net",
+    "type": "anime",
+    "name": "YayAnimes"
+  },
+  {
     "domain": "https://animedesu.pl",
     "type": "anime",
     "name": "AnimeDesu"
@@ -363,10 +363,5 @@
     "domain": "https://simplyaweeb.com",
     "type": "anime",
     "name": "Simplyaweeb"
-  },
-  {
-    "domain": "https://animevibe.tv",
-    "type": "anime",
-    "name": "Animevibe"
   }
 ]
