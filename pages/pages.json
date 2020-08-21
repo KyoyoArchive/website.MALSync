@@ -363,5 +363,10 @@
     "domain": "https://simplyaweeb.com",
     "type": "anime",
     "name": "Simplyaweeb"
+  },
+  {
+    "domain": "https://animevibe.tv",
+    "type": "anime",
+    "name": "Animevibe"
   }
 ]
