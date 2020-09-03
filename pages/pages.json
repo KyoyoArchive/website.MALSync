@@ -60,11 +60,6 @@
     "name": "Jkanime"
   },
   {
-    "domain": "https://proxer.me",
-    "type": "anime",
-    "name": "Proxer"
-  },
-  {
     "domain": "https://www.wakanim.tv",
     "type": "anime",
     "name": "Wakanim"
@@ -178,6 +173,11 @@
     "domain": "https://lectortmo.com",
     "type": "manga",
     "name": "tmofans"
+  },
+  {
+    "domain": "https://unionleitor.top",
+    "type": "manga",
+    "name": "unionmangas"
   },
   {
     "domain": "https://mangaplus.shueisha.co.jp",
