@@ -215,11 +215,6 @@
     "name": "Hidive"
   },
   {
-    "domain": "https://jaiminisbox.com",
-    "type": "manga",
-    "name": "JaiminisBox"
-  },
-  {
     "domain": "https://animestrue.site",
     "type": "anime",
     "name": "animestrue"
@@ -363,5 +358,10 @@
     "domain": "https://simplyaweeb.com",
     "type": "anime",
     "name": "Simplyaweeb"
+  },
+  {
+    "domain": "https://animevibe.tv",
+    "type": "anime",
+    "name": "Animevibe"
   }
 ]
