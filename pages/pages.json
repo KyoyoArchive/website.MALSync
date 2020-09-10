@@ -340,11 +340,6 @@
     "name": "MangaFox"
   },
   {
-    "domain": "https://justanime.app",
-    "type": "anime",
-    "name": "JustAnime"
-  },
-  {
     "domain": "https://yayanimes.net",
     "type": "anime",
     "name": "YayAnimes"
