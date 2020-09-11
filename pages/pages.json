@@ -290,6 +290,11 @@
     "name": "Anihub"
   },
   {
+    "domain": "https://www.animestreamingfr.fr",
+    "type": "anime",
+    "name": "AnimeStreamingFR"
+  },
+  {
     "domain": "https://scantrad.net",
     "type": "manga",
     "name": "Scantrad"
@@ -391,7 +396,7 @@
   },
   {
     "domain": "https://readm.org",
-    "type": "anime",
+    "type": "manga",
     "name": "Readm"
   },
   {
