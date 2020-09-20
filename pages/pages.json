@@ -1,5 +1,10 @@
 [
   {
+    "domain": "https://9anime.to",
+    "type": "anime",
+    "name": "9anime"
+  },
+  {
     "domain": "https://www.crunchyroll.com",
     "type": "anime",
     "name": "Crunchyroll"
