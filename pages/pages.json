@@ -185,11 +185,6 @@
     "name": "MangaPlus"
   },
   {
-    "domain": "https://www.japscan.co",
-    "type": "manga",
-    "name": "JapScan"
-  },
-  {
     "domain": "https://goyabu.com",
     "type": "anime",
     "name": "Goyabu"
