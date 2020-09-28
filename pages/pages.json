@@ -185,6 +185,11 @@
     "name": "MangaPlus"
   },
   {
+    "domain": "https://www.japscan.se",
+    "type": "manga",
+    "name": "JapScan"
+  },
+  {
     "domain": "https://goyabu.com",
     "type": "anime",
     "name": "Goyabu"
@@ -403,5 +408,20 @@
     "domain": "https://tioanime.com",
     "type": "anime",
     "name": "tioanime"
+  },
+  {
+    "domain": "https://mangasee123.com",
+    "type": "manga",
+    "name": "MangaSee"
+  },
+  {
+    "domain": "https://animetribes.ru",
+    "type": "anime",
+    "name": "AnimeTribes"
+  },
+  {
+    "domain": "https://www.okanime.com",
+    "type": "anime",
+    "name": "Okanime"
   }
 ]
