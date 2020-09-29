@@ -215,11 +215,6 @@
     "name": "Hidive"
   },
   {
-    "domain": "https://animestrue.site",
-    "type": "anime",
-    "name": "animestrue"
-  },
-  {
     "domain": "https://www.primevideo.com",
     "type": "anime",
     "name": "Amazon Prime Video"
@@ -338,6 +333,11 @@
     "domain": "http://fanfox.net",
     "type": "manga",
     "name": "MangaFox"
+  },
+  {
+    "domain": "https://justanime.app",
+    "type": "anime",
+    "name": "JustAnime"
   },
   {
     "domain": "https://yayanimes.net",
