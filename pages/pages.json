@@ -85,11 +85,6 @@
     "name": "animeultima"
   },
   {
-    "domain": "https://www1.aniflix.tv",
-    "type": "anime",
-    "name": "Aniflix"
-  },
-  {
     "domain": "https://www.animefreak.tv",
     "type": "anime",
     "name": "Animefreak"
@@ -245,11 +240,6 @@
     "name": "MangaPark"
   },
   {
-    "domain": "https://animeshouse.net",
-    "type": "anime",
-    "name": "AnimesHouse"
-  },
-  {
     "domain": "https://animexin.xyz",
     "type": "anime",
     "name": "AnimeXin"
@@ -273,11 +263,6 @@
     "domain": "https://samehadaku.vip",
     "type": "anime",
     "name": "Samehadaku"
-  },
-  {
-    "domain": "https://www.tsukimangas.com",
-    "type": "manga",
-    "name": "Tsuki Mangás"
   },
   {
     "domain": "https://mangatx.com",
