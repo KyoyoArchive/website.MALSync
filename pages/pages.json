@@ -35,11 +35,6 @@
     "name": "Branitube"
   },
   {
-    "domain": "https://www.turkanime.net",
-    "type": "anime",
-    "name": "Turkanime"
-  },
-  {
     "domain": "https://animepahe.com",
     "type": "anime",
     "name": "animepahe"
@@ -83,6 +78,11 @@
     "domain": "https://animeultima.to",
     "type": "anime",
     "name": "animeultima"
+  },
+  {
+    "domain": "https://www1.aniflix.tv",
+    "type": "anime",
+    "name": "Aniflix"
   },
   {
     "domain": "https://www.animefreak.tv",
@@ -240,6 +240,11 @@
     "name": "MangaPark"
   },
   {
+    "domain": "https://animeshouse.net",
+    "type": "anime",
+    "name": "AnimesHouse"
+  },
+  {
     "domain": "https://animexin.xyz",
     "type": "anime",
     "name": "AnimeXin"
@@ -263,6 +268,11 @@
     "domain": "https://samehadaku.vip",
     "type": "anime",
     "name": "Samehadaku"
+  },
+  {
+    "domain": "https://www.tsukimangas.com",
+    "type": "manga",
+    "name": "Tsuki Mangás"
   },
   {
     "domain": "https://mangatx.com",
