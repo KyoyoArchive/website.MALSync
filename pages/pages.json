@@ -360,11 +360,6 @@
     "name": "AnimeOnDemand"
   },
   {
-    "domain": "https://edelgardescans.com",
-    "type": "manga",
-    "name": "EdelgardeScans"
-  },
-  {
     "domain": "https://reaperscans.com",
     "type": "manga",
     "name": "ReaperScans"
