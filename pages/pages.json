@@ -80,11 +80,6 @@
     "name": "animeultima"
   },
   {
-    "domain": "https://www1.aniflix.tv",
-    "type": "anime",
-    "name": "Aniflix"
-  },
-  {
     "domain": "https://www.animefreak.tv",
     "type": "anime",
     "name": "Animefreak"
@@ -208,6 +203,11 @@
     "domain": "https://www.hidive.com",
     "type": "anime",
     "name": "Hidive"
+  },
+  {
+    "domain": "https://animestrue.site",
+    "type": "anime",
+    "name": "animestrue"
   },
   {
     "domain": "https://www.primevideo.com",
@@ -358,6 +358,11 @@
     "domain": "https://www.anime-on-demand.de",
     "type": "anime",
     "name": "AnimeOnDemand"
+  },
+  {
+    "domain": "https://edelgardescans.com",
+    "type": "manga",
+    "name": "EdelgardeScans"
   },
   {
     "domain": "https://reaperscans.com",
