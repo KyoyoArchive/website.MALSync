@@ -375,6 +375,11 @@
     "name": "EdelgardeScans"
   },
   {
+    "domain": "https://reaperscans.com",
+    "type": "manga",
+    "name": "ReaperScans"
+  },
+  {
     "domain": "https://helveticascans.com",
     "type": "manga",
     "name": "HelveticaScans"
