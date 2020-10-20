@@ -85,11 +85,6 @@
     "name": "animeultima"
   },
   {
-    "domain": "https://www1.aniflix.tv",
-    "type": "anime",
-    "name": "Aniflix"
-  },
-  {
     "domain": "https://www.animefreak.tv",
     "type": "anime",
     "name": "Animefreak"
@@ -338,6 +333,11 @@
     "domain": "http://fanfox.net",
     "type": "manga",
     "name": "MangaFox"
+  },
+  {
+    "domain": "https://justanime.app",
+    "type": "anime",
+    "name": "JustAnime"
   },
   {
     "domain": "https://yayanimes.net",
