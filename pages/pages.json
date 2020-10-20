@@ -220,11 +220,6 @@
     "name": "Amazon Prime Video"
   },
   {
-    "domain": "http://mangakatana.com",
-    "type": "manga",
-    "name": "MangaKatana"
-  },
-  {
     "domain": "https://manga4life.com",
     "type": "manga",
     "name": "manga4life"
