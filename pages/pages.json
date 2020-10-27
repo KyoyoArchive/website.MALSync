@@ -270,11 +270,6 @@
     "name": "AnimeFire"
   },
   {
-    "domain": "https://www.otakufr.com",
-    "type": "anime",
-    "name": "OtakuFR"
-  },
-  {
     "domain": "https://samehadaku.vip",
     "type": "anime",
     "name": "Samehadaku"
@@ -338,11 +333,6 @@
     "domain": "http://fanfox.net",
     "type": "manga",
     "name": "MangaFox"
-  },
-  {
-    "domain": "https://justanime.app",
-    "type": "anime",
-    "name": "JustAnime"
   },
   {
     "domain": "https://yayanimes.net",
