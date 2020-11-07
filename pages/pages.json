@@ -265,6 +265,11 @@
     "name": "AnimeFire"
   },
   {
+    "domain": "https://www.otakufr.com",
+    "type": "anime",
+    "name": "OtakuFR"
+  },
+  {
     "domain": "https://samehadaku.vip",
     "type": "anime",
     "name": "Samehadaku"
@@ -408,6 +413,11 @@
     "domain": "https://mangasee123.com",
     "type": "manga",
     "name": "MangaSee"
+  },
+  {
+    "domain": "https://animetribes.ru",
+    "type": "anime",
+    "name": "AnimeTribes"
   },
   {
     "domain": "https://www.okanime.com",
