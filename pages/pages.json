@@ -175,6 +175,11 @@
     "name": "tmofans"
   },
   {
+    "domain": "https://unionleitor.top",
+    "type": "manga",
+    "name": "unionmangas"
+  },
+  {
     "domain": "https://mangaplus.shueisha.co.jp",
     "type": "manga",
     "name": "MangaPlus"
@@ -208,6 +213,11 @@
     "domain": "https://www.hidive.com",
     "type": "anime",
     "name": "Hidive"
+  },
+  {
+    "domain": "https://animestrue.site",
+    "type": "anime",
+    "name": "animestrue"
   },
   {
     "domain": "https://www.primevideo.com",
