@@ -380,6 +380,11 @@
     "name": "EdelgardeScans"
   },
   {
+    "domain": "https://kkjscans.co",
+    "type": "manga",
+    "name": "KKJScans"
+  },
+  {
     "domain": "https://reaperscans.com",
     "type": "manga",
     "name": "ReaperScans"
