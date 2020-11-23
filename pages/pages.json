@@ -340,11 +340,6 @@
     "name": "MangaHere"
   },
   {
-    "domain": "http://fanfox.net",
-    "type": "manga",
-    "name": "MangaFox"
-  },
-  {
     "domain": "https://yayanimes.net",
     "type": "anime",
     "name": "YayAnimes"
