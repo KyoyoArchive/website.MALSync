@@ -1,5 +1,10 @@
 [
   {
+    "domain": "https://9anime.to",
+    "type": "anime",
+    "name": "9anime"
+  },
+  {
     "domain": "https://www.crunchyroll.com",
     "type": "anime",
     "name": "Crunchyroll"
@@ -213,11 +218,6 @@
     "domain": "https://www.hidive.com",
     "type": "anime",
     "name": "Hidive"
-  },
-  {
-    "domain": "https://animestrue.site",
-    "type": "anime",
-    "name": "animestrue"
   },
   {
     "domain": "https://www.primevideo.com",
