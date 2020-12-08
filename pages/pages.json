@@ -60,11 +60,6 @@
     "name": "Jkanime"
   },
   {
-    "domain": "https://www.wakanim.tv",
-    "type": "anime",
-    "name": "Wakanim"
-  },
-  {
     "domain": "http://app.emby.media",
     "type": "anime",
     "name": "Emby"
@@ -215,6 +210,11 @@
     "name": "Hidive"
   },
   {
+    "domain": "https://animestrue.site",
+    "type": "anime",
+    "name": "animestrue"
+  },
+  {
     "domain": "https://www.primevideo.com",
     "type": "anime",
     "name": "Amazon Prime Video"
@@ -273,6 +273,11 @@
     "domain": "https://samehadaku.vip",
     "type": "anime",
     "name": "Samehadaku"
+  },
+  {
+    "domain": "https://www.tsukimangas.com",
+    "type": "manga",
+    "name": "Tsuki Mangás"
   },
   {
     "domain": "https://mangatx.com",
