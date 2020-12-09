@@ -80,6 +80,11 @@
     "name": "animeultima"
   },
   {
+    "domain": "https://www1.aniflix.tv",
+    "type": "anime",
+    "name": "Aniflix"
+  },
+  {
     "domain": "https://www.animefreak.tv",
     "type": "anime",
     "name": "Animefreak"
@@ -348,11 +353,6 @@
     "domain": "https://simplyaweeb.com",
     "type": "anime",
     "name": "Simplyaweeb"
-  },
-  {
-    "domain": "https://animevibe.wtf",
-    "type": "anime",
-    "name": "Animevibe"
   },
   {
     "domain": "https://wuxiaworld.site",
