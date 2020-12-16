@@ -110,11 +110,6 @@
     "name": "AnimeKisa"
   },
   {
-    "domain": "http://animeindo.moe",
-    "type": "anime",
-    "name": "AnimeIndo"
-  },
-  {
     "domain": "https://shinden.pl",
     "type": "anime",
     "name": "Shinden"
