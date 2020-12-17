@@ -35,11 +35,6 @@
     "name": "Branitube"
   },
   {
-    "domain": "https://www.turkanime.net",
-    "type": "anime",
-    "name": "Turkanime"
-  },
-  {
     "domain": "https://animepahe.com",
     "type": "anime",
     "name": "animepahe"
@@ -108,6 +103,11 @@
     "domain": "https://animekisa.tv",
     "type": "anime",
     "name": "AnimeKisa"
+  },
+  {
+    "domain": "http://animeindo.moe",
+    "type": "anime",
+    "name": "AnimeIndo"
   },
   {
     "domain": "https://shinden.pl",
