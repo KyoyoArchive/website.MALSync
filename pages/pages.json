@@ -35,6 +35,11 @@
     "name": "Branitube"
   },
   {
+    "domain": "https://www.turkanime.net",
+    "type": "anime",
+    "name": "Turkanime"
+  },
+  {
     "domain": "https://animepahe.com",
     "type": "anime",
     "name": "animepahe"
@@ -53,6 +58,11 @@
     "domain": "https://jkanime.net/",
     "type": "anime",
     "name": "Jkanime"
+  },
+  {
+    "domain": "https://proxer.me",
+    "type": "anime",
+    "name": "Proxer"
   },
   {
     "domain": "http://app.emby.media",
@@ -363,6 +373,16 @@
     "domain": "https://edelgardescans.com",
     "type": "manga",
     "name": "EdelgardeScans"
+  },
+  {
+    "domain": "https://kkjscans.co",
+    "type": "manga",
+    "name": "KKJScans"
+  },
+  {
+    "domain": "https://reaperscans.com",
+    "type": "manga",
+    "name": "ReaperScans"
   },
   {
     "domain": "https://helveticascans.com",
