@@ -60,11 +60,6 @@
     "name": "Jkanime"
   },
   {
-    "domain": "https://proxer.me",
-    "type": "anime",
-    "name": "Proxer"
-  },
-  {
     "domain": "http://app.emby.media",
     "type": "anime",
     "name": "Emby"
@@ -418,16 +413,6 @@
     "domain": "https://tioanime.com",
     "type": "anime",
     "name": "tioanime"
-  },
-  {
-    "domain": "https://yugenani.me/",
-    "type": "anime",
-    "name": "YugenAnime"
-  },
-  {
-    "domain": "https://mangasee123.com",
-    "type": "manga",
-    "name": "MangaSee"
   },
   {
     "domain": "https://animetribes.ru",
