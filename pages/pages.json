@@ -430,11 +430,6 @@
     "name": "AnimeTribes"
   },
   {
-    "domain": "https://okanime.tv",
-    "type": "anime",
-    "name": "Okanime"
-  },
-  {
     "domain": "https://pantsubase.tv",
     "type": "anime",
     "name": "Pantsubase"
