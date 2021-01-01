@@ -20,11 +20,6 @@
     "name": "Mangadex"
   },
   {
-    "domain": "https://gogoanimes.co",
-    "type": "anime",
-    "name": "Gogoanime"
-  },
-  {
     "domain": "https://twist.moe",
     "type": "anime",
     "name": "Twistmoe"
