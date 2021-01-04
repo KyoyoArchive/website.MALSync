@@ -35,6 +35,11 @@
     "name": "Turkanime"
   },
   {
+    "domain": "https://animepahe.com",
+    "type": "anime",
+    "name": "animepahe"
+  },
+  {
     "domain": "https://www.netflix.com",
     "type": "anime",
     "name": "Netflix"
@@ -473,5 +478,10 @@
     "domain": "https://komga.org",
     "type": "manga",
     "name": "Komga"
+  },
+  {
+    "domain": "https://animewho.com",
+    "type": "anime",
+    "name": "AnimeWho"
   }
 ]
