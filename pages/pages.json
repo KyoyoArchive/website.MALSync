@@ -170,6 +170,11 @@
     "name": "tmofans"
   },
   {
+    "domain": "https://unionleitor.top",
+    "type": "manga",
+    "name": "unionmangas"
+  },
+  {
     "domain": "https://mangaplus.shueisha.co.jp",
     "type": "manga",
     "name": "MangaPlus"
@@ -413,11 +418,6 @@
     "domain": "https://animetribes.ru",
     "type": "anime",
     "name": "AnimeTribes"
-  },
-  {
-    "domain": "https://okanime.tv",
-    "type": "anime",
-    "name": "Okanime"
   },
   {
     "domain": "https://pantsubase.tv",
