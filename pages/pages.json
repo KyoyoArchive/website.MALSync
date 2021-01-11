@@ -65,14 +65,14 @@
     "name": "Plex"
   },
   {
-    "domain": "https://4anime.to",
-    "type": "anime",
-    "name": "4Anime"
-  },
-  {
     "domain": "https://animeultima.to",
     "type": "anime",
     "name": "animeultima"
+  },
+  {
+    "domain": "https://www1.aniflix.tv",
+    "type": "anime",
+    "name": "Aniflix"
   },
   {
     "domain": "https://www.animefreak.tv",
@@ -193,11 +193,6 @@
     "domain": "https://www.hulu.com",
     "type": "anime",
     "name": "Hulu"
-  },
-  {
-    "domain": "https://aniwatch.me",
-    "type": "anime",
-    "name": "Aniwatch"
   },
   {
     "domain": "https://www.hidive.com",
@@ -433,11 +428,6 @@
     "domain": "https://animeowl.net",
     "type": "anime",
     "name": "AnimeOwl"
-  },
-  {
-    "domain": "https://asurascans.com",
-    "type": "manga",
-    "name": "AsuraScans"
   },
   {
     "domain": "https://naniscans.com",
