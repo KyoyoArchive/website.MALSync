@@ -155,6 +155,11 @@
     "name": "AnimeZone"
   },
   {
+    "domain": "https://animeflix.io",
+    "type": "anime",
+    "name": "Animeflix"
+  },
+  {
     "domain": "https://moeclip.com",
     "type": "anime",
     "name": "moeclip"
@@ -163,6 +168,11 @@
     "domain": "https://lectortmo.com",
     "type": "manga",
     "name": "tmofans"
+  },
+  {
+    "domain": "https://unionleitor.top",
+    "type": "manga",
+    "name": "unionmangas"
   },
   {
     "domain": "https://mangaplus.shueisha.co.jp",
@@ -268,6 +278,11 @@
     "domain": "https://mangatx.com",
     "type": "manga",
     "name": "mangatx"
+  },
+  {
+    "domain": "https://www.tranimeizle.net/",
+    "type": "anime",
+    "name": "TRanimeizle"
   },
   {
     "domain": "https://anihub.tv",
@@ -415,6 +430,11 @@
     "name": "Okanime"
   },
   {
+    "domain": "https://bs.to",
+    "type": "anime",
+    "name": "bs.to"
+  },
+  {
     "domain": "https://pantsubase.tv",
     "type": "anime",
     "name": "Pantsubase"
@@ -428,6 +448,11 @@
     "domain": "https://animeowl.net",
     "type": "anime",
     "name": "AnimeOwl"
+  },
+  {
+    "domain": "https://asurascans.com",
+    "type": "manga",
+    "name": "AsuraScans"
   },
   {
     "domain": "https://naniscans.com",
