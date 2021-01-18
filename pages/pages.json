@@ -200,11 +200,6 @@
     "name": "Hulu"
   },
   {
-    "domain": "https://aniwatch.me",
-    "type": "anime",
-    "name": "Aniwatch"
-  },
-  {
     "domain": "https://www.hidive.com",
     "type": "anime",
     "name": "Hidive"
@@ -278,11 +273,6 @@
     "domain": "https://mangatx.com",
     "type": "manga",
     "name": "mangatx"
-  },
-  {
-    "domain": "https://www.tranimeizle.net/",
-    "type": "anime",
-    "name": "TRanimeizle"
   },
   {
     "domain": "https://anihub.tv",
@@ -428,11 +418,6 @@
     "domain": "https://okanime.tv",
     "type": "anime",
     "name": "Okanime"
-  },
-  {
-    "domain": "https://bs.to",
-    "type": "anime",
-    "name": "bs.to"
   },
   {
     "domain": "https://pantsubase.tv",
