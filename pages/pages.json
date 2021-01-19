@@ -200,6 +200,11 @@
     "name": "Hulu"
   },
   {
+    "domain": "https://aniwatch.me",
+    "type": "anime",
+    "name": "Aniwatch"
+  },
+  {
     "domain": "https://www.hidive.com",
     "type": "anime",
     "name": "Hidive"
@@ -468,11 +473,6 @@
     "domain": "https://animedao.to",
     "type": "anime",
     "name": "AnimeDao"
-  },
-  {
-    "domain": "https://www.otakustv.com",
-    "type": "anime",
-    "name": "Otakustv"
   },
   {
     "domain": "https://komga.org",
