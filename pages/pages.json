@@ -280,6 +280,11 @@
     "name": "mangatx"
   },
   {
+    "domain": "https://www.tranimeizle.net/",
+    "type": "anime",
+    "name": "TRanimeizle"
+  },
+  {
     "domain": "https://anihub.tv",
     "type": "anime",
     "name": "Anihub"
@@ -425,6 +430,11 @@
     "name": "Okanime"
   },
   {
+    "domain": "https://bs.to",
+    "type": "anime",
+    "name": "bs.to"
+  },
+  {
     "domain": "https://pantsubase.tv",
     "type": "anime",
     "name": "Pantsubase"
@@ -473,6 +483,11 @@
     "domain": "https://animedao.to",
     "type": "anime",
     "name": "AnimeDao"
+  },
+  {
+    "domain": "https://www.otakustv.com",
+    "type": "anime",
+    "name": "Otakustv"
   },
   {
     "domain": "https://komga.org",
