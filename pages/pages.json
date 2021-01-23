@@ -30,6 +30,11 @@
     "name": "Twistmoe"
   },
   {
+    "domain": "https://www.anime4you.one",
+    "type": "anime",
+    "name": "Anime4you"
+  },
+  {
     "domain": "https://www.branitube.net",
     "type": "anime",
     "name": "Branitube"
@@ -170,11 +175,6 @@
     "name": "tmofans"
   },
   {
-    "domain": "https://unionleitor.top",
-    "type": "manga",
-    "name": "unionmangas"
-  },
-  {
     "domain": "https://mangaplus.shueisha.co.jp",
     "type": "manga",
     "name": "MangaPlus"
@@ -278,6 +278,11 @@
     "domain": "https://mangatx.com",
     "type": "manga",
     "name": "mangatx"
+  },
+  {
+    "domain": "https://www.tranimeizle.net/",
+    "type": "anime",
+    "name": "TRanimeizle"
   },
   {
     "domain": "https://anihub.tv",
@@ -423,6 +428,11 @@
     "domain": "https://okanime.tv",
     "type": "anime",
     "name": "Okanime"
+  },
+  {
+    "domain": "https://bs.to",
+    "type": "anime",
+    "name": "bs.to"
   },
   {
     "domain": "https://pantsubase.tv",
