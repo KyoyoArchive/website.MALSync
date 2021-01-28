@@ -90,11 +90,6 @@
     "name": "AnimeLab"
   },
   {
-    "domain": "https://animedaisuki.moe",
-    "type": "anime",
-    "name": "AnimeDaisuki"
-  },
-  {
     "domain": "https://www.kickassanime.rs",
     "type": "anime",
     "name": "KickAssAnime"
@@ -368,16 +363,6 @@
     "domain": "https://edelgardescans.com",
     "type": "manga",
     "name": "EdelgardeScans"
-  },
-  {
-    "domain": "https://kkjscans.co",
-    "type": "manga",
-    "name": "KKJScans"
-  },
-  {
-    "domain": "https://reaperscans.com",
-    "type": "manga",
-    "name": "ReaperScans"
   },
   {
     "domain": "https://helveticascans.com",
