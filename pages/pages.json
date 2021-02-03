@@ -25,6 +25,11 @@
     "name": "Gogoanime"
   },
   {
+    "domain": "https://twist.moe",
+    "type": "anime",
+    "name": "Twistmoe"
+  },
+  {
     "domain": "https://www.branitube.net",
     "type": "anime",
     "name": "Branitube"
@@ -403,6 +408,11 @@
     "domain": "https://okanime.tv",
     "type": "anime",
     "name": "Okanime"
+  },
+  {
+    "domain": "https://bs.to",
+    "type": "anime",
+    "name": "bs.to"
   },
   {
     "domain": "https://pantsubase.tv",
