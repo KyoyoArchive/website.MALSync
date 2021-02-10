@@ -150,11 +150,6 @@
     "name": "AnimeZone"
   },
   {
-    "domain": "https://animeflix.io",
-    "type": "anime",
-    "name": "Animeflix"
-  },
-  {
     "domain": "https://moeclip.com",
     "type": "anime",
     "name": "moeclip"
@@ -423,11 +418,6 @@
     "domain": "https://animeowl.net",
     "type": "anime",
     "name": "AnimeOwl"
-  },
-  {
-    "domain": "https://asurascans.com",
-    "type": "manga",
-    "name": "AsuraScans"
   },
   {
     "domain": "https://naniscans.com",
