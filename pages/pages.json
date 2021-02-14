@@ -315,6 +315,11 @@
     "name": "JustAnime"
   },
   {
+    "domain": "https://yayanimes.net",
+    "type": "anime",
+    "name": "YayAnimes"
+  },
+  {
     "domain": "https://animedesu.pl",
     "type": "anime",
     "name": "AnimeDesu"
