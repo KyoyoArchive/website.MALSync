@@ -260,6 +260,11 @@
     "name": "mangatx"
   },
   {
+    "domain": "https://www.tranimeizle.net/",
+    "type": "anime",
+    "name": "TRanimeizle"
+  },
+  {
     "domain": "https://anihub.tv",
     "type": "anime",
     "name": "Anihub"
@@ -308,11 +313,6 @@
     "domain": "https://justanime.app",
     "type": "anime",
     "name": "JustAnime"
-  },
-  {
-    "domain": "https://yayanimes.net",
-    "type": "anime",
-    "name": "YayAnimes"
   },
   {
     "domain": "https://animedesu.pl",
@@ -393,6 +393,11 @@
     "domain": "https://okanime.tv",
     "type": "anime",
     "name": "Okanime"
+  },
+  {
+    "domain": "https://bs.to",
+    "type": "anime",
+    "name": "bs.to"
   },
   {
     "domain": "https://pantsubase.tv",
