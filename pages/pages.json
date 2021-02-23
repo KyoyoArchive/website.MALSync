@@ -35,11 +35,6 @@
     "name": "Branitube"
   },
   {
-    "domain": "https://www.turkanime.net",
-    "type": "anime",
-    "name": "Turkanime"
-  },
-  {
     "domain": "https://animepahe.com",
     "type": "anime",
     "name": "animepahe"
@@ -323,11 +318,6 @@
     "domain": "https://animedesu.pl",
     "type": "anime",
     "name": "AnimeDesu"
-  },
-  {
-    "domain": "https://simplyaweeb.com",
-    "type": "anime",
-    "name": "Simplyaweeb"
   },
   {
     "domain": "https://animevibe.wtf",
