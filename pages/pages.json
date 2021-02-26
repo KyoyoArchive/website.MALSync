@@ -255,6 +255,11 @@
     "name": "mangatx"
   },
   {
+    "domain": "https://www.tranimeizle.net/",
+    "type": "anime",
+    "name": "TRanimeizle"
+  },
+  {
     "domain": "https://anihub.tv",
     "type": "anime",
     "name": "Anihub"
@@ -393,6 +398,11 @@
     "domain": "https://okanime.tv",
     "type": "anime",
     "name": "Okanime"
+  },
+  {
+    "domain": "https://bs.to",
+    "type": "anime",
+    "name": "bs.to"
   },
   {
     "domain": "https://pantsubase.tv",
