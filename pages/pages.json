@@ -35,6 +35,11 @@
     "name": "Branitube"
   },
   {
+    "domain": "https://www.turkanime.net",
+    "type": "anime",
+    "name": "Turkanime"
+  },
+  {
     "domain": "https://animepahe.com",
     "type": "anime",
     "name": "animepahe"
