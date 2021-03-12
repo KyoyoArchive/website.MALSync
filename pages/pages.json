@@ -355,6 +355,11 @@
     "name": "EdelgardeScans"
   },
   {
+    "domain": "https://leviatanscans.com",
+    "type": "manga",
+    "name": "LeviatanScans"
+  },
+  {
     "domain": "https://helveticascans.com",
     "type": "manga",
     "name": "HelveticaScans"
