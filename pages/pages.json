@@ -350,9 +350,9 @@
     "name": "EdelgardeScans"
   },
   {
-    "domain": "https://helveticascans.com",
+    "domain": "https://leviatanscans.com",
     "type": "manga",
-    "name": "HelveticaScans"
+    "name": "LeviatanScans"
   },
   {
     "domain": "https://reader.kireicake.com",
@@ -403,11 +403,6 @@
     "domain": "https://pantsubase.tv",
     "type": "anime",
     "name": "Pantsubase"
-  },
-  {
-    "domain": "https://fastani.net",
-    "type": "anime",
-    "name": "Fastani"
   },
   {
     "domain": "https://animeowl.net",
@@ -465,6 +460,11 @@
     "name": "AnimeWho"
   },
   {
+    "domain": "https://animesuge.io",
+    "type": "anime",
+    "name": "AnimeSuge"
+  },
+  {
     "domain": "https://toonily.net",
     "type": "manga",
     "name": "Toonily"
@@ -493,5 +493,10 @@
     "domain": "https://animeshd.org",
     "type": "anime",
     "name": "AnimesHD"
+  },
+  {
+    "domain": "https://mangahub.io",
+    "type": "manga",
+    "name": "MangaHub"
   }
 ]
