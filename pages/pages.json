@@ -355,6 +355,11 @@
     "name": "LeviatanScans"
   },
   {
+    "domain": "https://skscans.com",
+    "type": "manga",
+    "name": "SKScans"
+  },
+  {
     "domain": "https://reader.kireicake.com",
     "type": "manga",
     "name": "KireiCake"
