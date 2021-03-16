@@ -405,6 +405,11 @@
     "name": "Okanime"
   },
   {
+    "domain": "https://bs.to",
+    "type": "anime",
+    "name": "bs.to"
+  },
+  {
     "domain": "https://pantsubase.tv",
     "type": "anime",
     "name": "Pantsubase"
