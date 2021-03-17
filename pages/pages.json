@@ -10,11 +10,6 @@
     "name": "Vrv"
   },
   {
-    "domain": "https://www.mangadex.org",
-    "type": "manga",
-    "name": "Mangadex"
-  },
-  {
     "domain": "https://gogoanimes.co",
     "type": "anime",
     "name": "Gogoanime"
@@ -320,11 +315,6 @@
     "name": "YayAnimes"
   },
   {
-    "domain": "https://animedesu.pl",
-    "type": "anime",
-    "name": "AnimeDesu"
-  },
-  {
     "domain": "https://simplyaweeb.com",
     "type": "anime",
     "name": "Simplyaweeb"
@@ -403,11 +393,6 @@
     "domain": "https://okanime.tv",
     "type": "anime",
     "name": "Okanime"
-  },
-  {
-    "domain": "https://bs.to",
-    "type": "anime",
-    "name": "bs.to"
   },
   {
     "domain": "https://pantsubase.tv",
